@@ -1,3 +1,16 @@
+------------------------- COVID-19 Vaccination Effectiveness - PairWise Matching -----------------------------------
+
+-- Author: NHS England and Improvement Performance Analysis Team - April 2021 
+-- Email: england.NHSEI-advanced-analytics@nhs.net 
+-- github: https://github.com/NHSEI-Analytics
+
+-- Summary: This script uses a pairwise matching methodology to match patients who received a vaccination between 
+--          certain dates to those who did not receive a vaccination,  on a number of matching criteria. 
+
+-- Disclaimer: This is a simplified version of the script used for the final analysis.  
+--             Record level data is used in the final analysis which has been suppressed in this script. 
+--             File locations and database directories have been suppressed behind temp databases. 
+
 
 @VaccStartDate As Date,
 @VaccEndDate As Date
