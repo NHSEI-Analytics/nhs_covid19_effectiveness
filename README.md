@@ -8,7 +8,7 @@
 
 
 -- Summary: The analysis here contributes to an NHS England and Improvement study on COVID-19 vaccine effectiveness. 
--           For more information please see the pre-publication version of the study: 
+--           For more information please see the pre-publication version of the study: 
             
 -- Disclaimer: This is a simplified version of the work used for the final analysis.  
 --             Record level data is used in the final analysis which has been suppressed in this script. 
