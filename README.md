@@ -8,7 +8,6 @@
 
 
 -- Summary: The analysis here contributes to an NHS England and Improvement study on COVID-19 vaccine effectiveness. 
-
 -           For more information please see the pre-publication version of the study: 
             
 -- Disclaimer: This is a simplified version of the work used for the final analysis.  
@@ -18,19 +17,16 @@
 
 
 
-The analysis is split into 3 sections: 
+-- The analysis is split into 3 sections: 
 
   - 01 Pairwise Matching 
- 
         Applies the pairwise matching process to vaccination data. Matching vaccinated individuals to unvaccinated 
         individuals on a number of criteria. 
 
  - 02 Matched AE APC Join
-
         Takes the matched patients and joins any AE / APC hospitalisation records with COVID-19. 
 
 
  - 03 Bootstrapping Adjustment 
- 
         Applies bootstrapping and an adjustment methodology to the matched data, for positive tests, AE admissions and APC admissions. 
         Outputs summary tables to excel for use with the publication. 
